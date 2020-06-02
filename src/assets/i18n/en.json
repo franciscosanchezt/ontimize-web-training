@@ -45,5 +45,7 @@
   "EMPLOYEEEMAIL": "Mail",
   "OFFICEID": "Office",
   "EMPLOYEEPHONE": "Phone",
-  "EMPLOYEE_PERSONAL_INFORMATION": "Employee details"
+  "EMPLOYEE_PERSONAL_INFORMATION": "Employee details",
+
+  "BRANCHES": "Branches"
 }
