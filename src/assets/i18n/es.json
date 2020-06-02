@@ -14,5 +14,11 @@
   "ERROR_USER_REQUIRED": "Nombre de usuario incorrecto.",
   "ERROR_PASS_REQUIRED": "Contraseña incorrecta.",
   "ERROR_USER_PASS_INCORRECT": "Usuario o contraseña incorrecta.",
-  "CUSTOMERS": "Clientes"
+  "CUSTOMERS": "Clientes",
+  "ID": "Id.",
+  "NAME": "Nombre",
+  "SURNAME": "Apellido",
+  "STARTDATE": "Fecha inicio",
+  "EMAIL": "Correo",
+  "PHOTO": "Fotografía"
 }
