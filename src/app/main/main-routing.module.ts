@@ -7,6 +7,7 @@ import {HomeModule} from './home/home.module';
 import {CustomersModule} from './customers/customers.module';
 import {EmployeesModule} from "./employees/employees.module";
 import {BranchesModule} from "./branches/branches.module";
+import {AccountsModule} from "./accounts/accounts.module";
 
 export function loadHomeModule() {
     return HomeModule;
@@ -24,6 +25,10 @@ export function loadBranchesModule() {
     return BranchesModule;
 }
 
+export function loadAccountsModule() {
+    return AccountsModule;
+}
+
 export const routes: Routes = [
     {
         path: '',
@@ -34,7 +39,8 @@ export const routes: Routes = [
             {path: 'home', loadChildren: loadHomeModule},
             {path: 'customers', loadChildren: loadCustomersModule},
             {path: 'employees', loadChildren: loadEmployeesModule},
-            {path: 'branches', loadChildren: loadBranchesModule}
+            {path: 'branches', loadChildren: loadBranchesModule},
+            {path: 'accounts', loadChildren: loadAccountsModule}
         ]
     }
 ];

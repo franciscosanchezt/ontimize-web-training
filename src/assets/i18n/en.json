@@ -47,5 +47,13 @@
   "EMPLOYEEPHONE": "Phone",
   "EMPLOYEE_PERSONAL_INFORMATION": "Employee details",
 
-  "BRANCHES": "Branches"
+  "BRANCHES": "Branches",
+
+  "ACCOUNTS": "Accounts",
+  "ENTITYID": "Entity",
+  "CDID": "CD",
+  "ANID": "Account",
+  "ENDDATE": "End date",
+  "INTERESRATE": "% Interest",
+  "ACCOUNTTYP": "Account type"
 }
