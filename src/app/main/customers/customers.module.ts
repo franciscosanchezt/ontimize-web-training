@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { OntimizeWebModule } from "ontimize-web-ngx";
 import { CustomersRoutingModule } from './customers-routing.module';
 import {CustomersHomeComponent} from "./customers-home/customers-home.component";
+import {CustomersDetailComponent} from "./customers-detail/customers-detail.component";
 
 @NgModule({
   imports: [
@@ -11,7 +12,9 @@ import {CustomersHomeComponent} from "./customers-home/customers-home.component"
     CustomersRoutingModule
   ],
   declarations: [
-      CustomersHomeComponent
+      CustomersHomeComponent,
+      CustomersDetailComponent
+
   ]
 })
 export class CustomersModule { }
