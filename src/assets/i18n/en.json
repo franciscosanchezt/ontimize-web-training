@@ -57,5 +57,7 @@
   "INTERESRATE": "% Interest",
   "ACCOUNTTYP": "Account type",
 
-  "ACCOUNTNUMBER": "Account number"
+  "ACCOUNTNUMBER": "Account number",
+
+  "INTERESRATE_MONTHLY": "Monthly interest rate"
 }
