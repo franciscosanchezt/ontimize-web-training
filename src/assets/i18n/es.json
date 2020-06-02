@@ -14,13 +14,16 @@
   "ERROR_USER_REQUIRED": "Nombre de usuario incorrecto.",
   "ERROR_PASS_REQUIRED": "Contraseña incorrecta.",
   "ERROR_USER_PASS_INCORRECT": "Usuario o contraseña incorrecta.",
+
   "CUSTOMERS": "Clientes",
+
   "ID": "Id.",
   "NAME": "Nombre",
   "SURNAME": "Apellido",
   "STARTDATE": "Fecha inicio",
   "EMAIL": "Correo",
   "PHOTO": "Fotografía",
+
   "CUSTOMER_PERSONAL_INFORMATION": "Información personal",
   "CUSTOMERID": "Id. cliente",
   "PHONE": "Teléfono",
@@ -28,5 +31,19 @@
   "ADDRESS": "Dirección",
   "LONGITUDE": "Longitud",
   "LATITUDE": "Latitud",
-  "COMMENTS": "Comentarios"
+  "COMMENTS": "Comentarios",
+
+  "EMPLOYEES": "Empleados",
+  "EMPLOYEEID": "Id. Empleado",
+  "EMPLOYEETYPEID": "Tipo de empleado",
+  "EMPLOYEENAME": "Nombre",
+  "EMPLOYEESURNAME": "Apellidos",
+  "EMPLOYEEADDRESS": "Dirección",
+  "EMPLOYEECOMMENTS": "Comentarios",
+  "EMPLOYEESTARTDATE": "Fecha de inicio",
+  "EMPLOYEEPHOTO": "Fotografía",
+  "EMPLOYEEEMAIL": "Correo",
+  "OFFICEID": "Oficina",
+  "EMPLOYEEPHONE": "Teléfono",
+  "EMPLOYEE_PERSONAL_INFORMATION": "Detalles empleado"
 }

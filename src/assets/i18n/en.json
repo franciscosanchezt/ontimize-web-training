@@ -14,13 +14,16 @@
   "ERROR_USER_REQUIRED": "Incorrect username.",
   "ERROR_PASS_REQUIRED": "Incorrect password.",
   "ERROR_USER_PASS_INCORRECT": "Invalid username or password.",
+
   "CUSTOMERS": "Customers",
+
   "ID": "Id.",
   "NAME": "Name",
   "SURNAME": "Surname",
   "STARTDATE": "Start date",
   "EMAIL": "Email",
   "PHOTO": "Photo",
+
   "CUSTOMER_PERSONAL_INFORMATION": "Personal Information",
   "CUSTOMERID": "Customer Id.",
   "PHONE": "Phone",
@@ -28,5 +31,19 @@
   "ADDRESS": "Address",
   "LONGITUDE": "Longitude",
   "LATITUDE": "Latitude",
-  "COMMENTS": "Comments"
+  "COMMENTS": "Comments",
+
+  "EMPLOYEES": "Employees",
+  "EMPLOYEEID": "Employee Id.",
+  "EMPLOYEETYPEID": "Employee type",
+  "EMPLOYEENAME": "Name",
+  "EMPLOYEESURNAME": "Surname",
+  "EMPLOYEEADDRESS": "Address",
+  "EMPLOYEECOMMENTS": "Comments",
+  "EMPLOYEESTARTDATE": "Start date",
+  "EMPLOYEEPHOTO": "Photo",
+  "EMPLOYEEEMAIL": "Mail",
+  "OFFICEID": "Office",
+  "EMPLOYEEPHONE": "Phone",
+  "EMPLOYEE_PERSONAL_INFORMATION": "Employee details"
 }
